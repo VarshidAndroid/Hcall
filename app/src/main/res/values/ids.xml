@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_Campagin" type="id" />
+    <item name="menu_report" type="id" />
+    <item name="Report" type="id" />
+    <item name="Campaign" type="id" />
+</resources>

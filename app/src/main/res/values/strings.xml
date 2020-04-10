@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hcall</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_Campaign">Campaign</string>
+    <string name="title_report">Report</string>
+    <string name="title_activity_n_avigation_main">NAvigation_main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">select</string>
+    <string-array name="items">
+        <item>open activity one</item>
+        <item>open activity two</item>
+    </string-array>
+</resources>
